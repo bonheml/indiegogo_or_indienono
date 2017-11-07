@@ -137,5 +137,4 @@ fabric.properties
 
 # Project specific stuff to ignore
 indiegogo_raw_data/*.csv
-indiegogo_cleaned_dataset.tsv
-indiegogo_raw_data.tsv
+*.tsv
