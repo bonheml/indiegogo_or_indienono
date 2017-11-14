@@ -1,3 +1,4 @@
 jupyter
 seaborn
 pandas
+sklearn
